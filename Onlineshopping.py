@@ -1,3 +1,14 @@
+print(
+"""
+------|
+LIST  |
+OF    ----------|
+                |
+    SHOPPING    |
+----------------|
+
+""")
+
 class Product:
     #initialization of instance attributes
     def __init__(self, name, price, deal_price, ratings):
